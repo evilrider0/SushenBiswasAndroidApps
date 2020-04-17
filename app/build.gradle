@@ -42,4 +42,13 @@ dependencies {
     implementation 'com.firebaseui:firebase-ui-auth:6.0.2'
 
 
+    implementation "androidx.cardview:cardview:1.0.0"
+    //implementation 'com.squareup.retrofit2:converter-gson:latest.version'
+
+    compile 'com.squareup.retrofit2:retrofit:2.1.0'
+    compile 'com.google.code.gson:gson:2.6.2'
+    compile 'com.squareup.retrofit2:converter-gson:2.1.0'
+    implementation 'androidx.recyclerview:recyclerview:1.0.0'
+
+
 }
