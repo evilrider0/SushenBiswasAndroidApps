@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "923350920015",
+    "firebase_url": "https://sushenbiswasandroidapps.firebaseio.com",
+    "project_id": "sushenbiswasandroidapps",
+    "storage_bucket": "sushenbiswasandroidapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923350920015:android:78ee91ebbfe2e66ca0b33a",
+        "android_client_info": {
+          "package_name": "com.sushenbiswas.sushenbiswasandroidapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923350920015-f242t5hpnhu29684ahh8l8l18vpqh8oe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sushenbiswas.sushenbiswasandroidapps",
+            "certificate_hash": "ef9bd4b7b1c31092880d06de6269bed66d1690f9"
+          }
+        },
+        {
+          "client_id": "923350920015-0es9ad9m8edljhobpogrefehcr2etdsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCJAjo23u16-LbImmGiSou2-BnDn325T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923350920015-0es9ad9m8edljhobpogrefehcr2etdsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
